@@ -10,6 +10,8 @@ public class RestAPITest {
 		System.out.println("APIApp");
 		System.out.println("APIApp01");
 		System.out.println("APIApp02");
+		System.out.println("APIApp03");
+		System.out.println("APIApp04");
 	}
 	
 	
